@@ -2,10 +2,26 @@
   background-color: #ff4141;
   padding-top: 50px;
   padding-bottom: 100px;
-  height: 700px;
+  height: 600px;
   border-bottom: 10px solid #000;
+}
+
+.section.-second {
+  background-color: #ff4141;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  height: 600px;
+  border-bottom: 10px solid rgb(0, 68, 255);
 }
 
 .section .main-title {
   margin-bottom: 60px;
+}
+
+.section.-third {
+  background-color: #000;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  height: 600px;
+  border-bottom: 10px solid #eeff00;
 }

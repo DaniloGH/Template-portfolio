@@ -3,7 +3,7 @@
   padding-top: 50px;
   padding-bottom: 100px;
   height: 600px;
-  border-bottom: 10px solid #000;
+  border-bottom: 10px solid rgb(0, 68, 255);
 }
 
 .main-section.-second {
@@ -23,5 +23,13 @@
   padding-top: 50px;
   padding-bottom: 100px;
   height: 450px;
-  border-bottom: 10px solid #eeff00;
+  border-bottom: 10px solid rgb(0, 68, 255);
+}
+
+.main-section.-fourth {
+  background-color: rgb(179, 173, 28);
+  padding-top: 50px;
+  padding-bottom: 100px;
+  height: 450px;
+  border-bottom: 10px solid rgb(0, 68, 255);
 }

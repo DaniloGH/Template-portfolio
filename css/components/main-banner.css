@@ -3,7 +3,7 @@
   background-repeat: no-repeat;
   background-size: 100%;
   height: 700px;
-  border-bottom: 10px solid #000;
+  border-bottom: 10px solid rgb(0, 68, 255);
 }
 
 .main-banner .wrapper {

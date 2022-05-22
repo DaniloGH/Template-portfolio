@@ -6,19 +6,11 @@
   border-bottom: 10px solid rgb(0, 68, 255);
 }
 
-.main-section.-second {
-  background-color: #ff4141;
-  padding-top: 50px;
-  padding-bottom: 100px;
-  height: 600px;
-  border-bottom: 10px solid rgb(0, 68, 255);
-}
-
 .main-section .main-title {
   margin-bottom: 60px;
 }
 
-.main-section.-third {
+.main-section.-second {
   background-color: #000;
   padding-top: 50px;
   padding-bottom: 100px;
@@ -26,10 +18,10 @@
   border-bottom: 10px solid rgb(0, 68, 255);
 }
 
-.main-section.-fourth {
-  background-color: rgb(179, 173, 28);
+.main-section.-third {
+  background-color: #7C5E99;
   padding-top: 50px;
   padding-bottom: 100px;
   height: 450px;
-  border-bottom: 10px solid rgb(0, 68, 255);
+  border-bottom: 10px solid rgb(0, 0, 0);
 }

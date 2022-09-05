@@ -20,3 +20,7 @@
 .button-arrow .content {
   display: none; 
 }
+
+.button-arrow.-left::before {
+  transform: rotate(180deg) translateX(12px);
+}

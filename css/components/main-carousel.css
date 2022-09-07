@@ -6,10 +6,6 @@
   padding-right: 85px;
 }
 
-.main-carousel figure {
-  margin: 0;
-}
-
 .main-carousel::after {
   content: '';
   position: absolute;

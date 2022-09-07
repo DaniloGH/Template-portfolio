@@ -24,8 +24,3 @@
 .button-arrow.-left::before {
   transform: rotate(180deg) translateX(12px);
 }
-
-.button-arrow.-right {
-  float: right;
-  margin-right: 5rem;
-}

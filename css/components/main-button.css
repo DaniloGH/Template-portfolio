@@ -16,7 +16,9 @@
 }
 
 .main-button.-full {
+  font-family: "Fira Code", Arial, Helvetica, sans-serif;
   width: 100%;
+  margin-bottom: 40px;
 }
 
 .main-button.-full:hover {
